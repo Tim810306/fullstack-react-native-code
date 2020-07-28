@@ -1,0 +1,48 @@
+{
+  "name": "Fullstack React Native Code Directory",
+  "description": "This file is an index of the sample code",
+  "chapters": [
+    {
+      "name": "contact-list",
+      "examples": [
+        ""
+      ]
+    },
+    {
+      "name": "image-feed",
+      "examples": [
+        ""
+      ]
+    },
+    {
+      "name": "messaging",
+      "examples": [
+        ""
+      ]
+    },
+    {
+      "name": "pie-chart",
+      "examples": [
+        ""
+      ]
+    },
+    {
+      "name": "puzzle",
+      "examples": [
+        ""
+      ]
+    },
+    {
+      "name": "time-tracking",
+      "examples": [
+        ""
+      ]
+    },
+    {
+      "name": "weather",
+      "examples": [
+        ""
+      ]
+    }
+  ]
+}
